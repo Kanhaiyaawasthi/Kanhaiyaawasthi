@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kanhaiyaawasthi
+- 👋 Hi, I’m @Kanhaiya Awasthi
 - 👀 I’m interested in Machine Learning , Deep Learning , SQL & TABLEAU
 - 🌱 I’m currently learning Machine Learning & Time Series Forecasting
 - 📫 You can reach me on My email :- Kanhaiyaawasthi96@gmail.com
